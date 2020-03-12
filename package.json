@@ -1,5 +1,5 @@
 {
-  "name": "ipfs-cluster-api",
+  "name": "ipfs-cluster-api-remove-name",
   "version": "0.0.9",
   "description": "A JS client library for the IPFS Cluster HTTP API.",
   "leadMaintainer": "Vaibhav Saini <vasa@towardsblockchain.com>",
@@ -60,7 +60,7 @@
     "Tom O'Donnell <todonnel91@gmail.com>"
   ],
   "bugs": {
-    "url": "https://github.com/cluster-labs/ipfs-cluster-api/issues"
+    "url": "https://github.com/athlona64/js-cluster-client/issues"
   },
-  "homepage": "https://github.com/cluster-labs/ipfs-cluster-api"
+  "homepage": "https://github.com/athlona64/js-cluster-client"
 }

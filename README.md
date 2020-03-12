@@ -2,6 +2,9 @@
 <p align="center">
 <img src="https://i.pinimg.com/564x/f4/f9/68/f4f968409552de91c2ff09d2a141f2e4.jpg" alt="ipfs-cluster-api" />
 </p>
+
+## This Repo not original but solved remove name in function add
+
 <h3 align="center">A Javascript client library for the IPFS Cluster HTTP API.</h3>
 
 [![Made by](https://img.shields.io/badge/made%20by-Cluster%20Labs-blue.svg?style=flat-square)](https://clusterlabs.io) [![Main project](https://img.shields.io/badge/project-ipfscloud-blue.svg?style=flat-square)](http://github.com/cluster-labs/ipfscloud-web) [![npm version](https://badge.fury.io/js/ipfs-cluster-api.svg)](https://badge.fury.io/js/ipfs-cluster-api)
@@ -42,7 +45,7 @@ This is a port of `ipfs/js-ipfs-api` adapted for the API exposed by `ipfs/ipfs-c
 This module uses node.js, and can be installed through npm:
 
 ```
-npm install --save ipfs-cluster-api
+npm i ipfs-cluster-api-remove-name
 ```
 
 We support both the Current and Active LTS versions of Node.js. Please see [nodejs.org](https://nodejs.org/) for what these currently are.
