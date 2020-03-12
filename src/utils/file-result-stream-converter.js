@@ -29,9 +29,9 @@ class FileResultStreamConverter extends TransformStream {
   }
 
   _transform (obj, enc, callback) {
-    if (!obj.name) {
-      return callback()
-    }
+    // if (!obj.name) {
+    //   return callback()
+    // }
 
     callback(null, {
       path: obj.name,
